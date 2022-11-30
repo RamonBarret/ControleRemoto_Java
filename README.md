@@ -15,11 +15,15 @@
 
   
 ## Compilação 👨🏽‍💻
-### Preview 
+### Main - Métodos Personalizados
+<p align="center">
+  <img alt="output" src=".github/preview_cdg.PNG">
+</p>
+
+### Preview
 <p align="center">
   <img alt="output" src=".github/preview.PNG">
 </p>
-
 
 
 ## Tecnologias 🛠
