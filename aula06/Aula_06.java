@@ -9,5 +9,4 @@ public class Aula_06 {
         c.abrirMenu();
         c.fecharMenu();
     }
-    //consigo apenas aumentar volume e diminuir, não tenho como alterar muito por conta encapsulamento
 }
