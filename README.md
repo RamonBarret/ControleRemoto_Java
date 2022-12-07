@@ -33,6 +33,14 @@
 ## Instrutor 👨🏽‍🏫
 - <a target="_blank" href="https://www.linkedin.com/in/guanabara/">Gustavo Guanabara</a>
 
+## Aluno 👨🏽‍🎓
+
+- <a target="_blank" href="https://www.linkedin.com/in/ramon-barreto-076191180/">Ramon Barreto</a>
+
+## Contato 📲
+
+- Email: ramon_barreto_medrado@hotmail.com
+
 
 
 
